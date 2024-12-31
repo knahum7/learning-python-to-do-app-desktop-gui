@@ -1,0 +1,7 @@
+ruck
+carry
+run
+lift
+study
+meditate
+breakfast
