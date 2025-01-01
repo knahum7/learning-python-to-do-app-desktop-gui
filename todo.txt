@@ -1,9 +1,11 @@
-ruck
-carry
+ruck fast
+carry fast
 run
 lift
 study
 meditate
 breakfast
 tidyup
-socialize
+conversate
+eat luch
+meet people
