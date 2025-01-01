@@ -5,3 +5,5 @@ lift
 study
 meditate
 breakfast
+tidyup
+socialize
