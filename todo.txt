@@ -1,11 +1,7 @@
-ruck fast
-carry fast
 run
 lift
 study
 meditate
 breakfast
-tidyup
 conversate
 eat luch
-meet people
